@@ -90,6 +90,6 @@ The application manages different environments using **Spring Profiles**.
 
 ---
 
-**Author:** SriNayan  
+**Author:** Ponnada V V Naga Shanmukha 
 **Role:** Aspiring Full Stack Developer  
 **Focus:** Spring Boot, Java, & Scalable REST APIs
